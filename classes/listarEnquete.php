@@ -59,7 +59,7 @@ $liverpoolResult = ($liverpool*100)/ ($flamengo+$barcelona+$liverpool);
 Flamengo
 <div class="progress">
 <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" style="width: <?php echo round($flamengoResult); ?>%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><?php echo round($flamengoResult); ?>%</div>
-</div>
+/</div>
 
 Barcelona
 <div class="progress">
